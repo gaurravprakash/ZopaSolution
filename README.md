@@ -14,5 +14,5 @@ I have tried to keep the solution simple and straight forward. Please feel free 
 # How to run
 1. Build the solution.
 2. Open a command prompt/terminal window.
-3. Navigate to debug/bin or release/bin folder as per the selected build configuration.
+3. Navigate to ..\ZopaSolution\ZopaConsole\bin\Release or ..\ZopaSolution\ZopaConsole\bin\Debug folder as per the selected build    configuration.
 4. Execute command ZopaConsole.exe [market_file_path] [loan_amount] .
